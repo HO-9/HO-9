@@ -1,27 +1,58 @@
-# Chanho Kim (@HO-9)
+# Chanho Kim (Ho-9)
 
-- Security Researcher / Vulnerability Analyst / Bug Bounty Hunter
-- 📫 chanhokim0208@gmail.com
+**Security Researcher**
+
+- GitHub: [@HO-9](https://github.com/HO-9)
+- Website: [ho-9.github.io](https://ho-9.github.io/)
+- Email: [chanhokim0208@gmail.com](mailto:chanhokim0208@gmail.com)
+- Blog: [hoho9.tistory.com](https://hoho9.tistory.com/)
+- LinkedIn: [chanho-kim](https://www.linkedin.com/in/chanho-kim-7bab3b241/)
+- X: [@gimchan99805452](https://x.com/gimchan99805452)
 
 ## Profile
 
-I research software vulnerabilities, application security, and practical threat hunting. I enjoy turning vulnerability analysis into tools, papers, and useful security knowledge.
+I research software vulnerabilities, application security, and practical threat hunting. My interests include vulnerability analysis, security tooling, UEFI security, web hacking, malware analysis, and AI-assisted security research.
+
+## Skills
+
+- System Hacking
+- Web Hacking
+- Vulnerability Analysis
+- Malware Analysis
+- Threat Hunting
+- AI / LLM
+- C / Python / Java / SQL
+
+## Experience
+
+| Organization | Role | Period |
+| --- | --- | --- |
+| H3XOR | Security Researcher | 2018.07 – 2019.07 |
+| Republic of Korea Army Special Forces | CERT Team | 2020.07 – 2022.01 |
+| KITRI Best of the Best (BoB) 11th | Vulnerability Analysis | 2022.07 – 2023.03 |
+| Ai-Ver.se Labs | Senior Researcher | 2023.02 – Present |
+
+## Research Projects
+
+### UEFI Exploitation Fuzzer Project · 2022.07 – 2022.12
+
+- **UEFI Security Trends**, CISC-W'22
+- `CVE-2023-27471` / `SA-2023036`
+- `CVE-2023-30738` / `SVE-2023-0437`
+- [Project summary — UEFI GitBook](https://bob-mcd-team.gitbook.io/uefi)
+
+### Node.js Vulnerability Analysis · 2023.04 – 2023.09
+
+- ReDoS vulnerability detection tool trend analysis and improvement research — **CISC-W'23 Outstanding Paper Award**
+- Node.js package vulnerability analysis through prototype pollution pattern research — **CISC-W'23**
+- Disclosures across Node.js packages including `CVE-2023-45827`, `CVE-2024-23339`, and `CVE-2024-27088`
 
 ## Achievements / Awards
 
-### 2018
-
 - **Codegate Junior 2018** — Finalist
-
-### 2023
-
-- **CISC-W'23** — Outstanding Paper Award
-  - *A Study on Trends in ReDoS Vulnerability Detection Tools and Vulnerability Analysis through Improvement*
-- **KISA Practical Cyber Training Center** — Threat Hunting instructor
-
-### CTF
-
 - **BYU CTF** — 2nd place, team **Budaejjigae**
+- **CISC-W'23** — Outstanding Paper Award
+- **KISA Practical Cyber Training Center** — Threat Hunting instructor, 2023
 
 ## Disclosed Vulnerabilities
 
@@ -62,23 +93,30 @@ I research software vulnerabilities, application security, and practical threat 
 | es5-ext | `CVE-2024-27088` |
 | fprime | `GHSA-grhx-8h8f-j7fm` |
 
+## CTF
+
+- Codegate Junior 2018 Finals
+- BYU CTF 2023 — 2nd place, team **Budaejjigae**
+- Other CTF participation and security competitions since 2018
+
+## Bug Bounty
+
+- Samsung SDS / FindTheGap disclosures
+- HackerOne vulnerability report `#3639103`
+- Responsible disclosure of web and application security issues
+
+## Teaching
+
+- **KISA Practical Cyber Training Center, 2023**
+- Threat Hunting
+- MITRE ATT&CK TTP-based threat behavior simulation, event identification, and analysis
+
 ## Research & Publications
 
 - [UEFI GitBook](https://bob-mcd-team.gitbook.io)
 - **UEFI Security Trends**, CISC-W'22
 - **A Study on Node.js Package Vulnerabilities through Prototype Pollution Pattern Analysis**, CISC-W'23
-
-## Interests
-
-- Vulnerability research and responsible disclosure
-- ReDoS and denial-of-service vulnerabilities
-- Web application security and XSS
-- Node.js ecosystem and prototype pollution
-- UEFI security and threat hunting
-
-## Tech Stack
-
-`Python` · `Java` · `SQL` · `Linux` · `Git` · `Web Security`
+- **A Study on Trends in ReDoS Vulnerability Detection Tools and Vulnerability Analysis through Improvement**, CISC-W'23
 
 <div align="center">
 
