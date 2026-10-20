@@ -2,7 +2,7 @@
 
 # HO9
 
-### Building useful tools, exploring security, and learning in public.
+### Security researcher · Developer · Building useful tools
 
 <p>
   <a href="https://github.com/HO-9?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
@@ -12,11 +12,71 @@
 
 </div>
 
-## About me
+## Profile
 
-- Interested in practical software, developer tools, and application security
-- Exploring AI-assisted products, databases, and data workflows
-- Always learning by building and experimenting
+**Chanho Kim** · [@HO-9](https://github.com/HO-9)
+
+Security researcher focused on vulnerability analysis, application security, and practical developer tools.
+
+📫 [chanhokim0208@gmail.com](mailto:chanhokim0208@gmail.com)
+
+## Achievements
+
+- **Finalist**, Codegate Junior 2018
+- **2nd place**, BYU CTF — team **Budaejjigae**
+- **Outstanding Paper Award**, CISC-W'23 — *A Study on Trends in ReDoS Vulnerability Detection Tools and Vulnerability Analysis through Improvement*
+- **Instructor**, 2023 KISA Practical Cyber Training Center — Threat Hunting
+
+## Bug bounties & disclosures
+
+### HackerOne
+
+- `3639103` — Insufficiently Protected Credentials
+
+### FindTheGap
+
+- `FVE-2024-5b89-188` — XSS Using meta tag
+- `FVE-2024-5b89-127` — Admin page Misconfiguration
+- `FVE-2024-5b89-64` — Self-XSS
+
+<details>
+<summary><b>View CVE / GHSA disclosures</b></summary>
+
+#### CVE
+
+- Firefox: `CVE-2026-6778`
+- Nvidia: `CVE-2026-24189`
+- Samsung: `CVE-2023-30738` (`SVE-2023-0437`)
+- Next.js: `CVE-2026-64646`
+- Node: `CVE-2026-1526`
+- OpenSSL: `CVE-2026-28390`
+- Electron: `CVE-2026-34765`
+- libssh: `CVE-2026-59844`
+- PHP: `CVE-2025-1218`
+- Insyde: `CVE-2023-27471` (`SA-2023036`)
+- n8n: `CVE-2026-59253`
+- MSI: `CVE-2026-82908`
+- jq: `CVE-2026-33948`, `CVE-2026-39979`
+- capnproto: `CVE-2026-32240`, `CVE-2026-32239`
+- dot-diver: `CVE-2023-45827`
+- get-func-name: `CVE-2023-43646`
+- hoolock: `CVE-2024-23339`
+- es5-ext: `CVE-2024-27088`
+- fprime: `GHSA-grhx-8h8f-j7fm`
+
+#### Additional disclosures
+
+- Mailspring: `GHSA-pj5m-wc7c-mwhg`, `GHSA-px2g-jhg5-c6gh`, `GHSA-83gr-g8q8-fw32`
+- NanaZip: `CVE-2026-27711`, `CVE-2026-27710`, `CVE-2026-27709`
+- backnet-stack: `CVE-2026-26265`
+
+</details>
+
+## Research & writing
+
+- [UEFI GitBook](https://bob-mcd-team.gitbook.io)
+- **UEFI Security Trends**, CISC-W'22
+- **A Study on Node.js Package Vulnerabilities through Prototype Pollution Pattern Analysis**, CISC-W'23
 
 ## What I work with
 
