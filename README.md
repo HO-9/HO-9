@@ -7,7 +7,6 @@
 <p>
   <a href="https://github.com/HO-9"><img src="https://img.shields.io/badge/GitHub-HO--9-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="mailto:chanhokim0208@gmail.com"><img src="https://img.shields.io/badge/Email-contact-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=HO-9&style=for-the-badge&color=8b5cf6" alt="Profile views">
 </p>
 
 <p><i>Researching vulnerabilities. Building tools. Sharing knowledge.</i></p>
@@ -23,6 +22,14 @@
 Security researcher focused on vulnerability analysis, application security, developer tools, and practical threat hunting.
 
 📫 [chanhokim0208@gmail.com](mailto:chanhokim0208@gmail.com)
+
+<table>
+  <tr>
+    <td align="center"><b>Research</b><br>Vulnerability analysis<br>& application security</td>
+    <td align="center"><b>Practice</b><br>Bug bounties<br>& threat hunting</td>
+    <td align="center"><b>Share</b><br>Research papers<br>& security knowledge</td>
+  </tr>
+</table>
 
 ## 🏆 Achievements
 
