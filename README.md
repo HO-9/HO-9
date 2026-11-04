@@ -27,7 +27,6 @@ I research software vulnerabilities, application security, and practical threat 
 
 | Organization | Role | Period |
 | --- | --- | --- |
-| H3XOR | Security Researcher | 2018.07 – 2019.07 |
 | Republic of Korea Army Special Forces | CERT Team | 2020.07 – 2022.01 |
 | KITRI Best of the Best (BoB) 11th | Vulnerability Analysis | 2022.07 – 2023.03 |
 | Ai-Ver.se Labs | Senior Researcher | 2023.02 – Present |
